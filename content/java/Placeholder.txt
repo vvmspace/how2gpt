@@ -1,0 +1,11 @@
+Sure, here’s the translation and formatting you requested in Canadian English:
+
+```markdown
+title: Work on SEO
+date: YYYY-MM-DD
+tags: [SEO, digital marketing]
+
+Images folder
+```
+
+Let me know if you need further assistance!
